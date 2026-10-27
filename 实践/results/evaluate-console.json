@@ -1,0 +1,41 @@
+{
+  "experiment": "runtime-contracts-v1",
+  "python": "3.9.6",
+  "model": "scripted-v1",
+  "real_model_executed": false,
+  "repetitions": 5,
+  "unique_tasks": 8,
+  "contract_passes": 40,
+  "per_repeat_success_rates": [
+    0.625,
+    0.625,
+    0.625,
+    0.625,
+    0.625
+  ],
+  "metrics": {
+    "n": 40,
+    "successes": 25,
+    "success_rate": 0.625,
+    "wilson95_if_iid": null,
+    "latency_mean_s": 1.074690000000024e-05,
+    "latency_p95_s": 1.72089999999972e-05,
+    "model_calls": 90,
+    "tool_calls": 50,
+    "input_tokens": null,
+    "output_tokens": null,
+    "cost": null,
+    "token_cost": null,
+    "non_token_cost": null,
+    "total_cost_all_categories": null,
+    "total_cost_per_success": null,
+    "cost_per_success": null,
+    "retry_count": 5,
+    "timings_sum": {
+      "model_s": 0.0001232099999999986,
+      "tool_s": 0.00019287600000000849,
+      "checkpoint_s": 0.0
+    }
+  },
+  "iid_assumption_satisfied": false
+}

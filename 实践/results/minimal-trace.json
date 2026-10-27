@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "计算 2+3"
+  },
+  {
+    "role": "assistant",
+    "action": {
+      "tool": "add",
+      "args": {
+        "a": 2,
+        "b": 3
+      }
+    }
+  },
+  {
+    "role": "tool",
+    "result": 5
+  },
+  {
+    "role": "assistant",
+    "action": {
+      "answer": "5"
+    }
+  }
+]

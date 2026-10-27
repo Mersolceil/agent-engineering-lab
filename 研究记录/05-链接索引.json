@@ -1,0 +1,613 @@
+[
+  {
+    "url": "https://a2a-protocol.org/latest/specification/",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md",
+      "04-接口协议与平台边界.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://ai.google.dev/gemini-api/docs/caching",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "04-接口协议与平台边界.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://ai.google.dev/gemini-api/docs/function-calling",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md",
+      "04-接口协议与平台边界.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://ai.google.dev/gemini-api/docs/structured-output",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "04-接口协议与平台边界.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://ai.google.dev/gemini-api/docs/thinking",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "04-接口协议与平台边界.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/abs/2307.13854",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/abs/2308.08155",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/abs/2506.07982",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2210.03629v3",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2302.04761v1",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2303.11366v4",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2305.10601v2",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2310.08560v2",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2311.12983v1",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2404.07972v1",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2405.15793v1",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2406.12045v1",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2406.13352v3",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md",
+      "07-失败案例与设计误区.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2407.01476v1",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2407.01489v1",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2502.12110v1",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2503.13657v1",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md",
+      "07-失败案例与设计误区.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2505.14656v2",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2601.06112v1",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2609.02095v1",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://arxiv.org/html/2610.00651v1",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/guides/compaction",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "04-接口协议与平台边界.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/guides/conversation-state",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "04-接口协议与平台边界.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/guides/function-calling",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md",
+      "04-接口协议与平台边界.md",
+      "05-真实系统执行结构.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/guides/prompt-caching",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "04-接口协议与平台边界.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/guides/streaming-responses",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "04-接口协议与平台边界.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/guides/structured-outputs",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "04-接口协议与平台边界.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://docs.langchain.com/oss/python/langgraph/interrupts",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "06-框架与工程判断.md",
+      "07-失败案例与设计误区.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "06-框架与工程判断.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://github.com/langchain-ai/langgraph/pull/9232",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "07-失败案例与设计误区.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://github.com/langchain-ai/langgraph/releases",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "06-框架与工程判断.md",
+      "07-失败案例与设计误区.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://github.com/microsoft/agent-framework",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "06-框架与工程判断.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://github.com/microsoft/agent-framework/releases",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "06-框架与工程判断.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://github.com/microsoft/autogen",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "06-框架与工程判断.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://github.com/pydantic/pydantic-ai/releases",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "06-框架与工程判断.md",
+      "07-失败案例与设计误区.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://github.com/pydantic/pydantic-ai/security/advisories/GHSA-v36g-jcw9-x7cw",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "07-失败案例与设计误区.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://github.com/sierra-research/tau2-bench/blob/main/README.md",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/agent-framework/workflows/checkpoints",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "06-框架与工程判断.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/agent-framework/workflows/human-in-the-loop",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "06-框架与工程判断.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://modelcontextprotocol.io/specification/2025-11-25",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md",
+      "04-接口协议与平台边界.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "04-接口协议与平台边界.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://modelcontextprotocol.io/specification/2025-11-25/server/tools",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "04-接口协议与平台边界.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md",
+      "04-接口协议与平台边界.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-caching",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "04-接口协议与平台边界.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/build-with-claude/structured-outputs",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "04-接口协议与平台边界.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://proceedings.mlr.press/v267/patil25a.html",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://pydantic.dev/docs/ai/capabilities/durable_execution/overview/",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "06-框架与工程判断.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://pydantic.dev/docs/ai/core-concepts/agent/",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "06-框架与工程判断.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/SWE-agent/mini-swe-agent/main/src/minisweagent/agents/default.py",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "05-真实系统执行结构.md",
+      "07-失败案例与设计误区.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/SWE-agent/mini-swe-agent/main/src/minisweagent/environments/local.py",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "05-真实系统执行结构.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/anthropics/anthropic-cookbook/main/patterns/agents/orchestrator_workers.ipynb",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "05-真实系统执行结构.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/langchain-ai/langgraph/main/libs/langgraph/langgraph/pregel/_loop.py",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "06-框架与工程判断.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/langchain-ai/open_deep_research/main/src/open_deep_research/deep_researcher.py",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "05-真实系统执行结构.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/langchain-ai/open_deep_research/main/src/open_deep_research/prompts.py",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "05-真实系统执行结构.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/langchain-ai/open_deep_research/main/src/open_deep_research/state.py",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "05-真实系统执行结构.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/microsoft/agent-framework/main/python/samples/03-workflows/checkpoint/checkpoint_with_human_in_the_loop.py",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "06-框架与工程判断.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pydantic/pydantic-ai/main/pydantic_ai_slim/pydantic_ai/_agent_graph.py",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "06-框架与工程判断.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/web-arena-x/webarena/main/agent/agent.py",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "05-真实系统执行结构.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/web-arena-x/webarena/main/run.py",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "05-真实系统执行结构.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md",
+      "07-失败案例与设计误区.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md",
+      "07-失败案例与设计误区.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/infrastructure-noise",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "03-论文与精选资料索引.md",
+      "07-失败案例与设计误区.md",
+      "研究记录/04-证据账本与阅读范围.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/multi-agent-research-system",
+    "access_date": "2026-10-19",
+    "mentioned_in": [
+      "01-核心知识手册.md",
+      "03-论文与精选资料索引.md",
+      "07-失败案例与设计误区.md"
+    ],
+    "read_scope": "见 04-证据账本与阅读范围及对应章节；不代表完整全文/源码审计"
+  }
+]

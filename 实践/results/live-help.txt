@@ -1,0 +1,11 @@
+usage: live_benchmark.py [-h] --model MODEL [--repeats REPEATS]
+                         [--total-calls TOTAL_CALLS] [--max-output MAX_OUTPUT]
+                         [--rates RATES]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --model MODEL
+  --repeats REPEATS
+  --total-calls TOTAL_CALLS
+  --max-output MAX_OUTPUT
+  --rates RATES

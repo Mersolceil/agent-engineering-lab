@@ -1,0 +1,189 @@
+[
+  {
+    "condition": "clean",
+    "mode": "fixed_plan",
+    "budget": 4,
+    "action_calls": 2,
+    "search_expansions": 4,
+    "final_state": "G",
+    "success": true,
+    "trace": [
+      {
+        "step": 1,
+        "input_state": "S",
+        "action": [
+          "S",
+          "A"
+        ],
+        "expected": "A",
+        "observation": "moved",
+        "output_state": "A",
+        "pending_plan": [
+          [
+            "A",
+            "G"
+          ]
+        ]
+      },
+      {
+        "step": 2,
+        "input_state": "A",
+        "action": [
+          "A",
+          "G"
+        ],
+        "expected": "G",
+        "observation": "moved",
+        "output_state": "G",
+        "pending_plan": []
+      }
+    ]
+  },
+  {
+    "condition": "clean",
+    "mode": "replan_on_feedback",
+    "budget": 4,
+    "action_calls": 2,
+    "search_expansions": 4,
+    "final_state": "G",
+    "success": true,
+    "trace": [
+      {
+        "step": 1,
+        "input_state": "S",
+        "action": [
+          "S",
+          "A"
+        ],
+        "expected": "A",
+        "observation": "moved",
+        "output_state": "A",
+        "pending_plan": [
+          [
+            "A",
+            "G"
+          ]
+        ]
+      },
+      {
+        "step": 2,
+        "input_state": "A",
+        "action": [
+          "A",
+          "G"
+        ],
+        "expected": "G",
+        "observation": "moved",
+        "output_state": "G",
+        "pending_plan": []
+      }
+    ]
+  },
+  {
+    "condition": "blocked_first_edge",
+    "mode": "fixed_plan",
+    "budget": 4,
+    "action_calls": 1,
+    "search_expansions": 4,
+    "final_state": "S",
+    "success": false,
+    "trace": [
+      {
+        "step": 1,
+        "input_state": "S",
+        "action": [
+          "S",
+          "A"
+        ],
+        "expected": "A",
+        "observation": "blocked"
+      }
+    ]
+  },
+  {
+    "condition": "blocked_first_edge",
+    "mode": "replan_on_feedback",
+    "budget": 4,
+    "action_calls": 4,
+    "search_expansions": 8,
+    "final_state": "G",
+    "success": true,
+    "trace": [
+      {
+        "step": 1,
+        "input_state": "S",
+        "action": [
+          "S",
+          "A"
+        ],
+        "expected": "A",
+        "observation": "blocked",
+        "output_state": "S",
+        "pending_plan": [
+          [
+            "S",
+            "B"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "C",
+            "G"
+          ]
+        ]
+      },
+      {
+        "step": 2,
+        "input_state": "S",
+        "action": [
+          "S",
+          "B"
+        ],
+        "expected": "B",
+        "observation": "moved",
+        "output_state": "B",
+        "pending_plan": [
+          [
+            "B",
+            "C"
+          ],
+          [
+            "C",
+            "G"
+          ]
+        ]
+      },
+      {
+        "step": 3,
+        "input_state": "B",
+        "action": [
+          "B",
+          "C"
+        ],
+        "expected": "C",
+        "observation": "moved",
+        "output_state": "C",
+        "pending_plan": [
+          [
+            "C",
+            "G"
+          ]
+        ]
+      },
+      {
+        "step": 4,
+        "input_state": "C",
+        "action": [
+          "C",
+          "G"
+        ],
+        "expected": "G",
+        "observation": "moved",
+        "output_state": "G",
+        "pending_plan": []
+      }
+    ]
+  }
+]

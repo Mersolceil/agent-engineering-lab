@@ -1,0 +1,242 @@
+[
+  {
+    "mode": "sequential_isolated_loops",
+    "elapsed_s": 0.10028524999999999,
+    "model_calls": 4,
+    "tool_calls": 2,
+    "success": true,
+    "coordinator_model_calls": 0,
+    "worker_result_bytes": 268,
+    "model_tokens": null,
+    "answers": {
+      "alpha": {
+        "owner": "林",
+        "status": "通过",
+        "citation": "D1",
+        "quote": "alpha 项目的负责人是林，验收状态是通过。"
+      },
+      "beta": {
+        "owner": "陈",
+        "status": "待审",
+        "citation": "D2",
+        "quote": "beta 项目的负责人是陈，验收状态是待审。"
+      }
+    }
+  },
+  {
+    "mode": "two_workers",
+    "elapsed_s": 0.049912334,
+    "model_calls": 4,
+    "tool_calls": 2,
+    "success": true,
+    "coordinator_model_calls": 0,
+    "worker_result_bytes": 268,
+    "model_tokens": null,
+    "answers": {
+      "alpha": {
+        "owner": "林",
+        "status": "通过",
+        "citation": "D1",
+        "quote": "alpha 项目的负责人是林，验收状态是通过。"
+      },
+      "beta": {
+        "owner": "陈",
+        "status": "待审",
+        "citation": "D2",
+        "quote": "beta 项目的负责人是陈，验收状态是待审。"
+      }
+    }
+  },
+  {
+    "mode": "sequential_isolated_loops",
+    "elapsed_s": 0.096097459,
+    "model_calls": 4,
+    "tool_calls": 2,
+    "success": true,
+    "coordinator_model_calls": 0,
+    "worker_result_bytes": 268,
+    "model_tokens": null,
+    "answers": {
+      "alpha": {
+        "owner": "林",
+        "status": "通过",
+        "citation": "D1",
+        "quote": "alpha 项目的负责人是林，验收状态是通过。"
+      },
+      "beta": {
+        "owner": "陈",
+        "status": "待审",
+        "citation": "D2",
+        "quote": "beta 项目的负责人是陈，验收状态是待审。"
+      }
+    }
+  },
+  {
+    "mode": "two_workers",
+    "elapsed_s": 0.050727999999999995,
+    "model_calls": 4,
+    "tool_calls": 2,
+    "success": true,
+    "coordinator_model_calls": 0,
+    "worker_result_bytes": 268,
+    "model_tokens": null,
+    "answers": {
+      "alpha": {
+        "owner": "林",
+        "status": "通过",
+        "citation": "D1",
+        "quote": "alpha 项目的负责人是林，验收状态是通过。"
+      },
+      "beta": {
+        "owner": "陈",
+        "status": "待审",
+        "citation": "D2",
+        "quote": "beta 项目的负责人是陈，验收状态是待审。"
+      }
+    }
+  },
+  {
+    "mode": "sequential_isolated_loops",
+    "elapsed_s": 0.09875345800000002,
+    "model_calls": 4,
+    "tool_calls": 2,
+    "success": true,
+    "coordinator_model_calls": 0,
+    "worker_result_bytes": 268,
+    "model_tokens": null,
+    "answers": {
+      "alpha": {
+        "owner": "林",
+        "status": "通过",
+        "citation": "D1",
+        "quote": "alpha 项目的负责人是林，验收状态是通过。"
+      },
+      "beta": {
+        "owner": "陈",
+        "status": "待审",
+        "citation": "D2",
+        "quote": "beta 项目的负责人是陈，验收状态是待审。"
+      }
+    }
+  },
+  {
+    "mode": "two_workers",
+    "elapsed_s": 0.050987958,
+    "model_calls": 4,
+    "tool_calls": 2,
+    "success": true,
+    "coordinator_model_calls": 0,
+    "worker_result_bytes": 268,
+    "model_tokens": null,
+    "answers": {
+      "alpha": {
+        "owner": "林",
+        "status": "通过",
+        "citation": "D1",
+        "quote": "alpha 项目的负责人是林，验收状态是通过。"
+      },
+      "beta": {
+        "owner": "陈",
+        "status": "待审",
+        "citation": "D2",
+        "quote": "beta 项目的负责人是陈，验收状态是待审。"
+      }
+    }
+  },
+  {
+    "mode": "sequential_isolated_loops",
+    "elapsed_s": 0.08262074999999997,
+    "model_calls": 4,
+    "tool_calls": 2,
+    "success": true,
+    "coordinator_model_calls": 0,
+    "worker_result_bytes": 268,
+    "model_tokens": null,
+    "answers": {
+      "alpha": {
+        "owner": "林",
+        "status": "通过",
+        "citation": "D1",
+        "quote": "alpha 项目的负责人是林，验收状态是通过。"
+      },
+      "beta": {
+        "owner": "陈",
+        "status": "待审",
+        "citation": "D2",
+        "quote": "beta 项目的负责人是陈，验收状态是待审。"
+      }
+    }
+  },
+  {
+    "mode": "two_workers",
+    "elapsed_s": 0.048052207999999985,
+    "model_calls": 4,
+    "tool_calls": 2,
+    "success": true,
+    "coordinator_model_calls": 0,
+    "worker_result_bytes": 268,
+    "model_tokens": null,
+    "answers": {
+      "alpha": {
+        "owner": "林",
+        "status": "通过",
+        "citation": "D1",
+        "quote": "alpha 项目的负责人是林，验收状态是通过。"
+      },
+      "beta": {
+        "owner": "陈",
+        "status": "待审",
+        "citation": "D2",
+        "quote": "beta 项目的负责人是陈，验收状态是待审。"
+      }
+    }
+  },
+  {
+    "mode": "sequential_isolated_loops",
+    "elapsed_s": 0.09149345799999997,
+    "model_calls": 4,
+    "tool_calls": 2,
+    "success": true,
+    "coordinator_model_calls": 0,
+    "worker_result_bytes": 268,
+    "model_tokens": null,
+    "answers": {
+      "alpha": {
+        "owner": "林",
+        "status": "通过",
+        "citation": "D1",
+        "quote": "alpha 项目的负责人是林，验收状态是通过。"
+      },
+      "beta": {
+        "owner": "陈",
+        "status": "待审",
+        "citation": "D2",
+        "quote": "beta 项目的负责人是陈，验收状态是待审。"
+      }
+    }
+  },
+  {
+    "mode": "two_workers",
+    "elapsed_s": 0.048705125000000016,
+    "model_calls": 4,
+    "tool_calls": 2,
+    "success": true,
+    "coordinator_model_calls": 0,
+    "worker_result_bytes": 268,
+    "model_tokens": null,
+    "answers": {
+      "alpha": {
+        "owner": "林",
+        "status": "通过",
+        "citation": "D1",
+        "quote": "alpha 项目的负责人是林，验收状态是通过。"
+      },
+      "beta": {
+        "owner": "陈",
+        "status": "待审",
+        "citation": "D2",
+        "quote": "beta 项目的负责人是陈，验收状态是待审。"
+      }
+    }
+  }
+]

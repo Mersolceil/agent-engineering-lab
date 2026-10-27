@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "run_id": "9cb90305a138460382769b0be6e210cd",
+  "topic": "alpha",
+  "scenario": "normal",
+  "steps": 2,
+  "max_steps": 6,
+  "status": "success",
+  "messages": [
+    {
+      "role": "user",
+      "content": "alpha"
+    },
+    {
+      "role": "assistant",
+      "action": {
+        "type": "call",
+        "name": "search",
+        "arguments": "{\"query\": \"alpha\"}",
+        "call_id": "c1"
+      }
+    },
+    {
+      "role": "tool",
+      "call_id": "c1",
+      "ok": true,
+      "data": [
+        {
+          "id": "D1",
+          "url": "fixture://alpha",
+          "version": "fixture-v1",
+          "text": "alpha 项目的负责人是林，验收状态是通过。"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "action": {
+        "type": "final",
+        "answer": {
+          "owner": "林",
+          "status": "通过",
+          "citation": "D1",
+          "quote": "alpha 项目的负责人是林，验收状态是通过。"
+        }
+      }
+    }
+  ],
+  "events": [
+    {
+      "step": 1,
+      "event": "tool_result",
+      "call_id": "c1",
+      "ok": true
+    },
+    {
+      "step": 2,
+      "event": "success"
+    }
+  ],
+  "usage": [
+    null,
+    null
+  ],
+  "seen": {
+    "search:{\"query\": \"alpha\"}": 1
+  },
+  "transient_retries": 0,
+  "faults": {
+    "transient": 0
+  },
+  "timings": {
+    "model_s": 6.167000000001366e-06,
+    "tool_s": 9.124999999998717e-06,
+    "checkpoint_s": 0.000264124999999997
+  },
+  "doc_hash": "160af5aae3f9d93d4b6e9305c1851e22af0660cfc231950346afc99e11eaee10",
+  "model_name": "scripted-v1",
+  "elapsed_s": 0.0002887500000000008,
+  "answer": {
+    "owner": "林",
+    "status": "通过",
+    "citation": "D1",
+    "quote": "alpha 项目的负责人是林，验收状态是通过。"
+  }
+}

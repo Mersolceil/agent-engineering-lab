@@ -1,0 +1,14 @@
+test_invalid_final_field_rejected (test_lab.ProtocolTests) ... ok
+test_responses_wire_and_usage (test_lab.ProtocolTests) ... ok
+test_three_architectures_offline (test_lab.ProtocolTests) ... ok
+test_bad_input (test_lab.RuntimeTests) ... ok
+test_early_finish_and_loop (test_lab.RuntimeTests) ... ok
+test_meter_does_not_double_count_reasoning (test_lab.RuntimeTests) ... ok
+test_paid_parse_failure_is_metered (test_lab.RuntimeTests) ... ok
+test_resume_equivalence (test_lab.RuntimeTests) ... ok
+test_unknown_tool (test_lab.RuntimeTests) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.002s
+
+OK

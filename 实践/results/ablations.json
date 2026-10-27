@@ -1,0 +1,137 @@
+[
+  {
+    "comparison": "retry_budget",
+    "scenario": "normal",
+    "budget": 1,
+    "status": "budget_exhausted",
+    "model_calls": 1,
+    "tool_calls": 1
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "normal",
+    "budget": 2,
+    "status": "success",
+    "model_calls": 2,
+    "tool_calls": 1
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "normal",
+    "budget": 4,
+    "status": "success",
+    "model_calls": 2,
+    "tool_calls": 1
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "badargs",
+    "budget": 1,
+    "status": "budget_exhausted",
+    "model_calls": 1,
+    "tool_calls": 1
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "badargs",
+    "budget": 2,
+    "status": "budget_exhausted",
+    "model_calls": 2,
+    "tool_calls": 2
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "badargs",
+    "budget": 4,
+    "status": "success",
+    "model_calls": 3,
+    "tool_calls": 2
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "transient",
+    "budget": 1,
+    "status": "budget_exhausted",
+    "model_calls": 1,
+    "tool_calls": 1
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "transient",
+    "budget": 2,
+    "status": "budget_exhausted",
+    "model_calls": 2,
+    "tool_calls": 2
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "transient",
+    "budget": 4,
+    "status": "success",
+    "model_calls": 3,
+    "tool_calls": 2
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "loop",
+    "budget": 1,
+    "status": "budget_exhausted",
+    "model_calls": 1,
+    "tool_calls": 1
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "loop",
+    "budget": 2,
+    "status": "budget_exhausted",
+    "model_calls": 2,
+    "tool_calls": 2
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "loop",
+    "budget": 4,
+    "status": "repeat_limit",
+    "model_calls": 3,
+    "tool_calls": 2
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "early",
+    "budget": 1,
+    "status": "rejected_final",
+    "model_calls": 1,
+    "tool_calls": 0
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "early",
+    "budget": 2,
+    "status": "rejected_final",
+    "model_calls": 1,
+    "tool_calls": 0
+  },
+  {
+    "comparison": "retry_budget",
+    "scenario": "early",
+    "budget": 4,
+    "status": "rejected_final",
+    "model_calls": 1,
+    "tool_calls": 0
+  },
+  {
+    "comparison": "context_selection",
+    "budget_chars": 60,
+    "raw_has_evidence": false,
+    "selected_has_evidence": true,
+    "raw_chars": 60,
+    "selected_chars": 15
+  },
+  {
+    "comparison": "memory_scope",
+    "gold": "unittest",
+    "naive": "pytest",
+    "scope_filtered": "unittest",
+    "no_memory": "unknown"
+  }
+]
