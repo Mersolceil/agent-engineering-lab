@@ -39,5 +39,6 @@ def experiment(parallel):
 
 if __name__=='__main__':
     results = [experiment(p) for _ in range(5) for p in (False,True)]
-    Path('results/comparison.json').write_text(json.dumps(results,ensure_ascii=False,indent=2))
+    out = Path('results/generated'); out.mkdir(parents=True, exist_ok=True)
+    (out/'comparison.json').write_text(json.dumps(results,ensure_ascii=False,indent=2))
     print(json.dumps(results, ensure_ascii=False, indent=2))

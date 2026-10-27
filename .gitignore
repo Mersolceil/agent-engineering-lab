@@ -7,3 +7,5 @@ __pycache__/
 .DS_Store
 实践/results/my-*.json
 实践/results/live/
+实践/results/generated/
+实践/results/checkpoint.json

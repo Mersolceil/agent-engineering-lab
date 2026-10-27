@@ -23,7 +23,7 @@ python3 -m unittest -v
 | planning.py | 可观测图环境的计划、遇阻反馈与重规划 |
 | live_benchmark.py | 待联网验证的固定工作流/单 Agent/双 Agent 受控入口 |
 | test_lab.py | 运行契约、恢复、计量、协议映射和三种架构本地测试 |
-| results/ | 实际运行结果，不手写分数 |
+| results/ | 历史实验快照；新运行结果写入 results/generated/ |
 
 ## 实践 1：手写循环
 
@@ -81,11 +81,11 @@ python3 lab.py --checkpoint results/my-resume.json --resume
 
 ```sh
 python3 evaluate.py
-python3 metrics.py results/runs.json
+python3 metrics.py results/generated/runs.json
 python3 ablations.py
 ```
 
-**验证**：evaluate 写 runs.json 和 summary.json；每种失败都有 expected 状态。脚本替身 token 与费用为 null；不能从字符串长度伪造 token。**常见错误**：删掉失败再算平均成本；把确定性重复的 40 次当独立模型样本。**扩展**：新增一个保留任务，不用它调策略；为工具故障、来源冲突与过期记忆加任务。
+**验证**：evaluate 在 `results/generated/` 写 runs.json 和 summary.json；每种失败都有 expected 状态。compare、ablations 和 planning 的新结果也写入该目录，历史快照保持不变。脚本替身 token 与费用为 null；不能从字符串长度伪造 token。**常见错误**：删掉失败再算平均成本；把确定性重复的 40 次当独立模型样本。**扩展**：新增一个保留任务，不用它调策略；为工具故障、来源冲突与过期记忆加任务。
 
 计价输入示例（**合成费率，仅作算式教学，绝非服务商价格**）：
 

@@ -43,5 +43,6 @@ def episode(blocked,replanning,budget=4):
 
 if __name__=='__main__':
     results=[episode(blocked,replan) for blocked in (set(),{('S','A')}) for replan in (False,True)]
-    Path('results/planning.json').write_text(json.dumps(results,ensure_ascii=False,indent=2))
+    out = Path('results/generated'); out.mkdir(parents=True, exist_ok=True)
+    (out/'planning.json').write_text(json.dumps(results,ensure_ascii=False,indent=2))
     print(json.dumps(results,ensure_ascii=False,indent=2))

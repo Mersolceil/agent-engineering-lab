@@ -18,7 +18,7 @@ TASKS = [
 
 
 def main():
-    out = Path('results'); out.mkdir(exist_ok=True)
+    out = Path('results/generated'); out.mkdir(parents=True, exist_ok=True)
     runs = []
     for repeat in range(5):
         for task_id, topic, scenario, expected in TASKS:

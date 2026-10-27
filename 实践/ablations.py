@@ -27,7 +27,8 @@ def main():
     filtered=next(m['fact'] for m in memories if m['scope']=='current_repo' and m['valid'])
     rows.append({'comparison':'memory_scope','gold':'unittest','naive':naive,
                  'scope_filtered':filtered,'no_memory':'unknown'})
-    Path('results/ablations.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2))
+    out = Path('results/generated'); out.mkdir(parents=True, exist_ok=True)
+    (out/'ablations.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2))
     print(json.dumps(rows,ensure_ascii=False,indent=2))
 
 
